@@ -35,8 +35,8 @@ I'm an **ethical hacker** specializing in **penetration testing, vulnerability a
 | **Cloud Security** | Beginner | 🔹 50% |
 | **OWASP Top 10** | Professional | 🔹 90% |
 | **Black Box Testing** | Professional | 🔹 90% |
-| **GDPR** | Beginner | 🔹 90% |
-| **NIST** | Beginner | 🔹 50% |
+| **GDPR** | Beginner | 🔹 20% |
+| **NIST** | Beginner | 🔹 20% |
 
 ## 🔹 Soft Skills
 | Skill | Level | Progress |
