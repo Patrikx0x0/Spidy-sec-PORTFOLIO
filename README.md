@@ -19,31 +19,52 @@ I'm an **ethical hacker** specializing in **penetration testing, vulnerability a
 - **Programming & Scripting:** Python, Bash, JavaScript, HTML
 - **Security Skills:** VAPT, Network Security, API Security, OWASP Top 10, CVE Research, SOC Analysis
 - **Platforms & Collaboration:** GitHub, Jira, Visual Studio Code
-- **Soft Skills:** Problem Solving, Teamwork, Critical Thinking
 
 ---
+# Skill Sets
 
-## 🏆 Certifications
-- **Certified Ethical Hacker (CEH)**
-- **eJPT (Junior Penetration Tester)**
-- **Bug Bounty & Web Security Expert Certification**
-- **Cybersecurity Analyst - IBM Skills Network**
+## 🔹 Technical Skills
+| Skill | Level | Progress |
+|-------|--------|----------|
+| **Network Testing** | Professional | 🔹 90% |
+| **VAPT** | Professional | 🔹 90% |
+| **Web Application Testing** | Professional | 🔹 90% |
+| **API Testing** | Professional | 🔹 90% |
+| **OSINT** | Intermediate | 🔹 70% |
+| **Vulnerability Assessment** | Professional | 🔹 90% |
+| **Cloud Security** | Beginner | 🔹 50% |
+| **OWASP Top 10** | Professional | 🔹 90% |
+| **Black Box Testing** | Professional | 🔹 90% |
+| **GDPR** | Beginner | 🔹 90% |
+| **NIST** | Beginner | 🔹 50% |
+
+## 🔹 Soft Skills
+| Skill | Level | Progress |
+|-------|--------|----------|
+| **Leadership** | Professional | 🔹 90% |
+| **Team Work** | Professional | 🔹 90% |
+| **Time Management** | Professional | 🔹 90% |
+
+---
+## 🏆 Certifications  
+- **Essential Ethical Hacker (EEH)**  
+- **eJPT (Junior Penetration Tester) – In Progress**  
 
 ---
 
 ## 🏛 Open Source Contributions
 | 📌 Project Name | 📝 Description | 🔗 Link |
 |---------------|-------------|------|
-| **XSS Scanner** | Automated tool for detecting XSS vulnerabilities | [View](#) |
-| **GraphQL Security Toolkit** | Collection of scripts for GraphQL security testing | [View](#) |
+| **GraphQL Automation Toolkit** | Working on automation for GraphQL query building, leak detection, and internal security tools | [View](#) |
+
 
 ---
 
-## 📂 Featured Research & Reports
-| 📌 Research Topic | 📝 Description | 🔗 Link |
-|---------------|-------------|------|
-| **API Security Vulnerabilities** | Research on API security flaws & best practices | [View](#) |
-| **Bug Bounty Reports** | Collection of responsible disclosures | [View](#) |
+## 📂 **Featured Writeups & Reports**  
+| 📌 **Title** | 📝 **Description** | 🔗 **Link** |  
+|---------------|-------------|------|  
+| **From Watching Live Streams to Finding Bugs & Getting Paid** | A blog on real-world bug hunting experiences | [🔗 View on Notion](https://rushabhvyas.notion.site/ebd/8cac183fa57f4c869ccafd8d210fba92) |  
+
 
 ---
 
