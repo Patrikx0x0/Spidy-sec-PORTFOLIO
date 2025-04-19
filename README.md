@@ -60,10 +60,12 @@ I'm an **ethical hacker** specializing in **penetration testing, vulnerability a
 
 ---
 
-## 📂 **Featured Writeups & Reports**  
+## 📂 **Featured Writeups & Reports**   
+
 | 📌 **Title** | 📝 **Description** | 🔗 **Link** |  
-|---------------|-------------|------|  
-| **From Watching Live Streams to Finding Bugs & Getting Paid** | A blog on real-world bug hunting experiences | [🔗 View on Notion](https://rushabhvyas.notion.site/ebd/8cac183fa57f4c869ccafd8d210fba92) |  
+|---------------|--------------------|-------------|  
+| **From Watching Live Streams to Finding Bugs & Getting Paid** | A write-up on turning casual esports viewing into real-world bug discoveries and bounty payouts. | [🔗 View on Notion](https://rushabhvyas.notion.site/ebd/8cac183fa57f4c869ccafd8d210fba92) |  
+| **Enhancing Vulnerability Prioritization with AI in Nuclei Scanning 🔒** | Exploring how AI can improve the accuracy and prioritization of vulnerabilities during automated scanning with Nuclei. | [🔗 View on LinkedIn](https://www.linkedin.com/pulse/enhancing-vulnerability-prioritization-ai-nuclei-scanning-vyas-) |
 
 
 ---
